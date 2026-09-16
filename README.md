@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nilesh301
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Application Engineer
+- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
